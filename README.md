@@ -1,7 +1,7 @@
-# PulseAudio Sink Toggle Tool
+# PulseAudio Sink Cycle
 
-Pats is a command-line tool for managing PulseAudio audio sinks that allows you to
-list available audio outputs and toggle between them seamlessly.
+Pats is a command-line tool for managing PulseAudio audio sinks that allows you
+to list available audio outputs and cycles between them seamlessly.
 
 ## Features
 
@@ -93,5 +93,5 @@ gdb ./pats
 ## License
 
 [pats](https://github.com/mitjafelicijan/pats) was written by [Mitja
-Felicijan](https://mitjafelicijan.com) and is released under the BSD
-two-clause license, see the LICENSE file for more information.. 
+Felicijan](https://mitjafelicijan.com) and is released under the BSD two-clause
+license, see the LICENSE file for more information.
